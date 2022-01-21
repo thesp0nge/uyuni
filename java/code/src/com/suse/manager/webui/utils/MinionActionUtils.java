@@ -62,8 +62,6 @@ public class MinionActionUtils {
 
     private static final Logger LOG = Logger.getLogger(MinionActionUtils.class);
 
-    /** Whether the current database is Postgres. */
-    public static final boolean POSTGRES = true;
     private final SaltServerActionService saltServerActionService;
     private final SaltApi saltApi;
     private final SaltUtils saltUtils;
