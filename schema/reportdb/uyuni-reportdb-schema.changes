@@ -1,3 +1,5 @@
+- Fixed data duplication in multiple tables
+
 -------------------------------------------------------------------
 Tue Feb 15 10:09:27 CET 2022 - jgonzalez@suse.com
 
